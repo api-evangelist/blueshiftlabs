@@ -64,5 +64,142 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Blueshiftlabs is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://equityzen.com/company/blueshiftlabs
+Blueshiftlabs (Blueshift) is an AI‑powered customer engagement platform that helps mid‑market B2C teams unify customer data, automate cross‑channel marketing, and leverage predictive AI for personalized campaigns. The platform offers email, SMS, push, in‑app, paid media, and website content messaging, along with advanced audience segmentation, profile unification, and AI‑driven insights. Founded to provide a flexible alternative to Braze and Iterable, Blueshift serves retailers, financial services, healthcare, and other industries, delivering tools for journey orchestration, AI agents, and real‑time personalization.
+
+**Areas:** Company · Artificial Intelligence · Marketing · Customer Engagement · Consumer
+
+## Blueshiftlabs on APIs.io
+
+Everything profiled for Blueshiftlabs is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/blueshiftlabs/](https://apis.io/providers/blueshiftlabs/)** — or go straight to one of the APIs or properties below.
+
+### APIs (12)
+
+- [Blueshiftlabs Blueshiftlabs API](https://apis.io/apis/blueshiftlabs/blueshiftlabs-blueshiftlabs-api-api/) — The Blueshiftlabs API API from Blueshiftlabs — 1 operation(s) for blueshiftlabs api.
+- [Blueshiftlabs Campaigns API](https://apis.io/apis/blueshiftlabs/blueshiftlabs-campaigns-api/) — The Campaigns API from Blueshiftlabs — 1 operation(s) for campaigns.
+- [Blueshiftlabs Campaigns.json API](https://apis.io/apis/blueshiftlabs/blueshiftlabs-campaigns-json-api/) — The Campaigns.json API from Blueshiftlabs — 1 operation(s) for campaigns.json.
+- [Blueshiftlabs Custom User Lists API](https://apis.io/apis/blueshiftlabs/blueshiftlabs-custom-user-lists-api/) — The Custom User Lists API from Blueshiftlabs — 1 operation(s) for custom user lists.
+- [Blueshiftlabs Customer Group API](https://apis.io/apis/blueshiftlabs/blueshiftlabs-customer-group-api/) — The Customer Group API from Blueshiftlabs — 2 operation(s) for customer group.
+- [Blueshiftlabs Customers API](https://apis.io/apis/blueshiftlabs/blueshiftlabs-customers-api/) — The Customers API from Blueshiftlabs — 1 operation(s) for customers.
+- [Blueshiftlabs Emails API](https://apis.io/apis/blueshiftlabs/blueshiftlabs-emails-api/) — The Emails API from Blueshiftlabs — 2 operation(s) for emails.
+- [Blueshiftlabs Event API](https://apis.io/apis/blueshiftlabs/blueshiftlabs-event-api/) — The Event API from Blueshiftlabs — 2 operation(s) for event.
+- [Blueshiftlabs Interests API](https://apis.io/apis/blueshiftlabs/blueshiftlabs-interests-api/) — The Interests API from Blueshiftlabs — 1 operation(s) for interests.
+- [Blueshiftlabs List API](https://apis.io/apis/blueshiftlabs/blueshiftlabs-list-api/) — The List API from Blueshiftlabs — 1 operation(s) for list.
+- [Blueshiftlabs Live Activity API](https://apis.io/apis/blueshiftlabs/blueshiftlabs-live-activity-api/) — The Live Activity API from Blueshiftlabs — 1 operation(s) for live activity.
+- [Blueshiftlabs Live API](https://apis.io/apis/blueshiftlabs/blueshiftlabs-live-api/) — The Live API from Blueshiftlabs — 1 operation(s) for live.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Blueshiftlabs Webhooks](https://apis.io/asyncapis/blueshiftlabs/blueshiftlabs-webhooks/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetApiV1CustomUserListsIdCustomuserlistidResponse](https://apis.io/schemas/blueshiftlabs/blueshiftlabs-get-api-v1-custom-user-lists-id-customuserlistid-response/)
+- [GetApiV2CampaignsJsonResponse](https://apis.io/schemas/blueshiftlabs/blueshiftlabs-get-api-v2-campaigns-json-response/)
+- [PostApiV1EventSummaryJsonResponse](https://apis.io/schemas/blueshiftlabs/blueshiftlabs-post-api-v1-event-summary-json-response/)
+- [PostApiV1InterestsAlertRequest](https://apis.io/schemas/blueshiftlabs/blueshiftlabs-post-api-v1-interests-alert-request/)
+- [PostApiV1V1IdRequest](https://apis.io/schemas/blueshiftlabs/blueshiftlabs-post-api-v1-v1-id-request/)
+- [PostLiveResponse](https://apis.io/schemas/blueshiftlabs/blueshiftlabs-post-live-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Blueshiftlabs Context](https://apis.io/jsonld/blueshiftlabs/blueshiftlabs-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Blueshiftlabs API Rules](https://apis.io/rules/blueshiftlabs/blueshiftlabs-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Blueshiftlabs Domain Security](https://apis.io/security/blueshiftlabs/blueshiftlabs-domain-security/)
+- [Blueshiftlabs Trust Center](https://apis.io/security/blueshiftlabs/blueshiftlabs-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Blueshiftlabs Plans Pricing](https://apis.io/plans/blueshiftlabs/blueshiftlabs-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://blueshift.com)
+- [Documentation](https://developer.blueshift.com/)
+- [Getting started](https://developer.blueshift.com/docs/setup-blueshifts-android-sdk)
+- [API reference](https://developer.blueshift.com/reference)
+- [Pricing](https://blueshift.com/pricing-summary/)
+- [Support](https://help.blueshift.com/hc/en-us)
+- [Blog](https://blueshift.com/blog/)
+- [Security](https://blueshift.com/security/)
+- [Compliance](https://trust.blueshift.com/)
+- [Privacy policy](https://blueshift.com/privacy_policy)
+- [Status](https://status.blueshift.com/)
+
+## API Evangelist rating
+
+**Kin Score 44.8** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 78.6 |
+| Contract quality | 33.9 |
+| Contract governance | 22.0 |
+| Operational transparency | 34.2 |
+| Developer ergonomics | 35.7 |
+| Access clarity | 68.4 |
+
+**Agent readiness 38.7** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | yes |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 23.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/blueshiftlabs/](https://apis.io/providers/blueshiftlabs/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Blueshiftlabs: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/blueshiftlabs/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
